@@ -1,0 +1,24 @@
+td {
+
+    background: red;
+}
+
+/* td:hover {
+    background: green;
+    transition: 0.5s;
+} */
+
+.one:hover {
+    background: lightgreen;
+    transition: 0.5s;
+}
+
+.two:hover {
+    background: lightcoral;
+    transition: 0.5s;
+}
+
+.three:hover {
+    background: rgb(226, 226, 143);
+    transition: 0.5s;
+}
